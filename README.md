@@ -1,2 +1,3 @@
-# projectPortfolio
-My personal portfolio website made with Next.js
+## Personal Portfolio
+
+![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
